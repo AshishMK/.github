@@ -2,7 +2,7 @@
 
 ## Quick Overview of Tools and Libraries I Use for Robust and Stable App Development
 
-**@see [this](https://github.com/AshishMK/JetUpdates) code for the implementation of tools and practices defined below.
+**@see [JetUpdates App](https://github.com/AshishMK/JetUpdates) code for the implementation of tools and practices defined below.
 
 **Code Maintenance / Optimization Tools:**
 - **Lint**: A tool that helps identify and correct issues related to the structural quality of your code. It can detect problems such as unused namespaces in XML files, API calls not supported by the target API versions (e.g., using a custom button instead of a base button), and deprecated elements.
